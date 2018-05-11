@@ -1,7 +1,7 @@
 # 2d_maps
 
 This is the 'heart' of Aeolus, a MCMC mapping code that maps atmospheres of exoplanets and brown dwarfs. 
-Aeolus fits observed light curves assuming that clouds in the observed atmospheres are 'spots' and/or bands.
+Aeolus fits observed light curves assuming that clouds in the observed atmospheres are in the form of 'spots' and/or bands.
 Aeolus was written in Fortran, but I decided to translate it's mapping 'heart' to Python and make it publicly 
 available for anyone to use. 
 
